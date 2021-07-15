@@ -1,0 +1,27 @@
+.post {
+  font-family: 'Segoe UI', sans-serif;
+  max-width: 300px;
+  border: 1px solid black;
+}
+
+.account-line {
+  padding: 8px;
+}
+
+.post > img {
+  width: 100%;
+}
+
+.post-info {
+  padding: 4px;
+}
+
+.icons {
+  display: inline-block;
+}
+
+.icon {
+  display: inline;
+  width: 30px;
+  padding: 4px;
+}
